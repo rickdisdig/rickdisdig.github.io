@@ -1,2 +1,2 @@
-# gilpgcl.github.io
-Índice de sitios web.
+# rickdisdig.github.io
+Íntroducción al diseño digital
