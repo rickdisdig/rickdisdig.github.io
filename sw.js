@@ -1,5 +1,5 @@
-const VERSION = "1.9"
-const CACHE = "gilpgcl"
+const VERSION = "1.10"
+const CACHE = "rickdisdig"
 const ARCHIVOS = [
  "css/estilos.css",
  "img/icono2048.png",
