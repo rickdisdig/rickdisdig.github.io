@@ -1,4 +1,4 @@
-const VERSION = "1.21"
+const VERSION = "1.22"
 const CACHE = "rickmr"
 const ARCHIVOS = [
  "css/estilos.css",
